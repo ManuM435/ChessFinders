@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload. vamos a lo de juanchi...
+          re contra re testeando de nuevo
         </p>
         <a
           className="App-link"
@@ -17,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        EduFinders Co.
       </header>
     </div>
   );
